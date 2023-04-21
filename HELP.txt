@@ -1,0 +1,10 @@
+    
+    #Each level has two rounds. 
+    #By choosing a round you can play the game.
+    
+    Rules:
+        > The game choose a number randomly.
+        > Your task is search the number in the specific time.
+        > If you search the number in the specific time, you'll win!
+    
+    Best Of Luck!!!
